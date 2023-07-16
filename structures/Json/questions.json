@@ -1,0 +1,52 @@
+[
+	{
+		"question": "What color is the sky?",
+		"answers": ["blue", "A"],
+    "options": ["A. Blue", "B. Red", "C. Green", "D. Yellow"]
+	},
+	{
+		"question": "How many letters are there in the alphabet?",
+		"answers": ["26", "B"],
+    "options": ["A. 24", "B. 26", "C. 27", "D. 25"]
+	},
+  {
+		"question": "How many titan powers did Eren Yeager have?",
+		"answers": ["C", "4"],
+    "options": ["A. 10", "B. 2", "C. 4", "D. 3"]
+	},
+  {
+		"question": "There exists how many titan shifters if a a shifter has one titan each",
+		"answers": ["9", "D"],
+    "options": ["A. 10", "B. 11", "C. 5", "D. 9"]
+  },
+  {
+		"question": "What titan does Reiner have?",
+		"answers": ["Armoured titan", "B"],
+    "options": ["A. Founding titan", "B. Armoured Titan", "C. Attack titan", "D. Warhammer titan"]
+  },
+  {
+		"question": "Who was the first titan?",
+		"answers": ["Ymir","ymir", "A"],
+    "options": ["A. Ymir Fritz", "B. Eren Yeager", "C. Karl Fritz", "D. Pieck"]
+  },
+  {
+		"question": "Which of the following had royal blood?",
+		"answers": ["Zeke Yeager", "C"],
+    "options": ["A. Gabi Braun", "B. Porco Galliard", "C. Zeke Yeager", "D. Grisha Yeager"]
+  },
+  {
+		"question": "Porco's Jaw Titan made debut in _____ season of Attack on titan",
+		"answers": ["4","Fourth", "Final", "A"],
+    "options": ["A. Final", "B. Third", "C. Second", "D. First"]
+  },
+  {
+		"question": "Potato girl :)",
+		"answers": ["Sasha", "B"],
+    "options": ["A. Mikasa Ackerman", "B. Sasha Braus", "C. Pieck Finger", "D. Historia Reiss"]
+  },
+  {
+		"question": "No. of rainbow colours",
+		"answers": ["7", "D"],
+    "options": ["A. 1", "B. 6", "C. 8", "D. 7"]
+  }
+]
