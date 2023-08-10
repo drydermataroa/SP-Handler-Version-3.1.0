@@ -1,7 +1,7 @@
 <h1 align="center">
-   Discord.js v14 Command-Handlers
+   Discord.js v13 Command-Handlers
 </h1>
-<h4 align="center">Commands, Events, Games & Permissions Handlers for Discord.js v14 bot for you.</h4>
+<h4 align="center">Commands, Events, Games & Permissions Handlers for Discord.js v13 bot for you.</h4>
 
 <p align="center">
 <a href="https://nodejs.org/en/download/">
@@ -25,7 +25,7 @@
 - Events Handler (messageCreate, interactionCreate, ready, guildCreat & delete etc)
 - Permission Handler (commands, slash commands)
 - Cooldowns (No Database)
-- Games (From gamecord 14 games)
+- Games (From gamecord 13 games)
 
 
 ## Installation & Setup
