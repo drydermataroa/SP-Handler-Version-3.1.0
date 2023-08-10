@@ -30,7 +30,7 @@
 
 ## Installation & Setup
 ```
-npm install discord.js@latest npm install
+npm install discord.js@13.9.0 npm install
 ```
 ## Contact
 - [Support Server](https://discord.gg/Mw6aKhQ3wW)
